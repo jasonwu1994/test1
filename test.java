@@ -14,6 +14,7 @@ public class test {
         System.out.println(t.determineTriangleV2(1, 2, 1));
         System.out.println(t.determineTriangleV2(6, 6, 6));
         System.out.println(t.determineTriangleV2(3, 4, 5));
+		
     }
 
     static class Triangle {
